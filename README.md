@@ -7,8 +7,8 @@
 - 🔭 Trabalho atualmente com dev. mobile
 - 🌱 Meus estudos estão sendo focados em Flutter
 - 📩 Contatos:
-- 
- ![DownGIF](https://user-images.githubusercontent.com/95689416/145239849-f7863062-027c-4c9d-b35b-75513ec262d0.gif)
+
+![DownGIF](https://user-images.githubusercontent.com/95689416/145239849-f7863062-027c-4c9d-b35b-75513ec262d0.gif)
 
 <div> 
   <a href="https://instagram.com/_walter_ks_" target="_blank"> <img src =	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white> </a>
