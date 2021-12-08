@@ -28,6 +28,6 @@
   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/50186881626a48fe1afbc550e630e251.gif" width="100" height="100" border="5" alt="https://picasion.com/" /></a>
 
   
-    ![Snake animation](https://github.com/WalterSilva-ks/WalterSilva-ks/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation] (https://github.com/WalterSilva-ks/WalterSilva-ks/blob/output/github-contribution-grid-snake.svg)
  
  </div>
