@@ -51,3 +51,6 @@
   ![Snake animation](https://github.com/WalterSilva-ks/WalterSilva-ks/blob/output/github-contribution-grid-snake.svg)
  
 ### Estou criando projetos práticos sempre que posso então, me segue ai pra trocar uma idéia 😅
+  
+  
+  
