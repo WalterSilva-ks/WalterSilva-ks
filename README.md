@@ -4,8 +4,8 @@
 ##
 
 
-- 🔭 Trabalho atualmente com dev. mobile
-- 🌱 Meus estudos estão sendo focados em Flutter
+- 🔭 Trabalho atualmente com desenvolvimento front-end (web e mobile)
+- 🌱 Meus estudos estão sendo focados atualmente em React
 - 📩 Contatos:
 
 ![DownGIF](https://user-images.githubusercontent.com/95689416/145239849-f7863062-027c-4c9d-b35b-75513ec262d0.gif)
@@ -29,6 +29,8 @@
 <img align = "center" alt = "Walter-HTML" height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align = "center" alt = "Walter-CSS" height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align = "center" alt = "Walter-JavaScript" height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align = "center" alt = "Walter-TavaScript" height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align = "center" alt = "Walter-ReactJS" height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
  </div> 
 <br>
 
